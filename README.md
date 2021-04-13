@@ -13,11 +13,11 @@ Note: The term "Data Modeling" may be used in place of "Data Engineering," but t
 
 ## Instructions
 
-### Data Modeling
+#### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
-### Data Engineering
+#### Data Engineering
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
@@ -25,7 +25,7 @@ For the primary keys check to see if the column is unique, otherwise create a co
 Be sure to create tables in the correct order to handle foreign keys.
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
-### Data Analysis
+#### Data Analysis
 
 Once you have a complete database, do the following:
 
